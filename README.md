@@ -5,7 +5,7 @@ Responsive Checkout site built with HTML.
 - HTML
 
 ## Features
-- Display books with title, author, and cover
+- Displays your shopping cart and asks for the card name and card number.
 - Responsive layout for desktop, tablet, and mobile
 - Clean and semantic code (HTML)
 
